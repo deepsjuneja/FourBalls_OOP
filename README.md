@@ -1,1 +1,1 @@
-# FourBalls_OOP
+# Four Balls Challenge - OOP Solution
